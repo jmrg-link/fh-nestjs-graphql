@@ -1,0 +1,9 @@
+{
+  "name": "Graphql",
+  "version": "1.0.0",
+  "description": "Course FH Graphql",
+  "main": "main.js",
+  "repository": "git@github.com:jmrg-link/fg-nestjs-graphql.git",
+  "author": "jmrg-link",
+  "license": "MIT"
+}
